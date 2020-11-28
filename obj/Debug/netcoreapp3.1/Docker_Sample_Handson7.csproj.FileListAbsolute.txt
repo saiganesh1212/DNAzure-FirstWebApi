@@ -1,0 +1,9 @@
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\obj\Debug\netcoreapp3.1\Docker_Sample_Handson7.csprojAssemblyReference.cache
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\obj\Debug\netcoreapp3.1\Docker_Sample_Handson7.AssemblyInfoInputs.cache
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\obj\Debug\netcoreapp3.1\Docker_Sample_Handson7.AssemblyInfo.cs
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\obj\Debug\netcoreapp3.1\Docker_Sample_Handson7.RazorTargetAssemblyInfo.cache
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\obj\Debug\netcoreapp3.1\staticwebassets\Docker_Sample_Handson7.StaticWebAssets.Manifest.cache
+C:\Users\Ganesh\source\repos\Docker_Sample_Handson7\obj\Debug\netcoreapp3.1\staticwebassets\Docker_Sample_Handson7.StaticWebAssets.xml

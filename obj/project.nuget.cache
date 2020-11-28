@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vOjA9e3Y2XtubbnFTGGAvP+8HSQ4EWZehjZPGBGESncq7WL4ZI1J7IqBDzVRBGvg5neE6gjFp5himA64fxcaKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ganesh\\source\\repos\\Docker_Sample_Handson7\\Docker_Sample_Handson7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ganesh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
